@@ -1,6 +1,6 @@
-# Code and data for 'Asymmetry in the Asymmetry in the seasonal cycle of zonal-mean surface air temperature'
+# Code and data for 'Asymmetry in the seasonal cycle of zonal-mean surface air temperature'
 
-Journal article: 'Asymmetry in the Asymmetry in the seasonal cycle of zonal-mean surface air temperature' (2023).
+Journal article: 'Asymmetry in the seasonal cycle of zonal-mean surface air temperature' (2023).
 
 Authors: Lettie Roach, Ian Eisenman, Till Wagner and Aaron Donohoe
 
