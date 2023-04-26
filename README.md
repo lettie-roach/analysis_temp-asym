@@ -1,11 +1,12 @@
-# analysis_temp-asym
-Code and data for 'Asymmetry in the Asymmetry in the seasonal cycle of zonal-mean surface air temperature'
+# Code and data for 'Asymmetry in the Asymmetry in the seasonal cycle of zonal-mean surface air temperature'
 
 Journal article: 'Asymmetry in the Asymmetry in the seasonal cycle of zonal-mean surface air temperature' (2023).
 
-Lettie Roach, Ian Eisenman, Till Wagner and Aaron Donohoe
+Authors: Lettie Roach, Ian Eisenman, Till Wagner and Aaron Donohoe
 
 Accepted at Geophysical Rearch Letters
+
+Code produced by Lettie Roach
 
 This repository contains all code and processed data to reproduce the figures in the paper.
 
