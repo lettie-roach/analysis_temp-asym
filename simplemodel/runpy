@@ -1,0 +1,5 @@
+#!/bin/bash
+
+### Run the executable
+. ~/.bashrc_current
+python modelruns.py 
